@@ -1,0 +1,92 @@
+Nama        : Saatirah Khoirunnisa
+Kelas       : 2D/21090010
+
+1. data nilai = {7,45,1,255,87,45,3,9}
+   length = 8
+   urutan saat p = 3?
+
+   pivot = 9
+
+   #1 = 0-1 = -1
+
+   if(this.data[j] < pivot)
+   if(7 < 9)
+   i = - 1 + 1 = 0
+   t = this.data[0] = this.data[0]= this.data[0]
+   this.data[0] = t                                             {7,45,1,255,87,45,3,9}
+
+   #i = 0       j = 1
+   if(this.data[j] < pivot)
+   if(45 < 9)
+   t = this.data[i+1]       t = this.data[i]                    {7,9,1,255,87,45,3,45}
+   9 = t
+
+   ##p = 1
+    pivot = 7
+
+   #i = 0 -1 = -1    j = 0
+   if(7 < 7 )                                                   {7,9,1,255,87,45,3,45}
+   i = 0 + 1 = 1
+
+   #i = 2  j= 2
+   if(i < 7)
+   i = 1 + 1 = 2                                                {7,9,1,255,87,45,3,45}
+
+   #i = 2  j= 3
+   if(255 < 7)
+   t = this.data[i+1]    t = 255
+
+   #i = 2           j = 3
+   if(255 < 7)
+   t = this.data[i+1]      t = 255
+   this.data[3] = this.data[end]
+   this.data[end] = t                                          {7,9,1,45,87,45,3,255}
+   45 = t
+
+   ##p = 3
+    pivot = 255
+
+   #i = 2   j = 1                                              {7,9,1,45,87,45,3,255}
+   if(9, 255)
+   i = 2 +1 = 3
+
+   #i = 3   j = 2
+   if(1 < 255)
+   i = 3 +1 = 4
+
+   #i = 4   j = 3
+   if(45 < 255)
+   i = 4 + 1 = 5
+
+   #i = 5   j = 4
+   if(87 < 255)
+   i = 5 + 1 = 6
+
+   #i = 6   j = 5
+   if(45 < 255)
+   i = 6 + 1 = 7
+
+   #i = 7   j = 6
+   if(3 < 255)
+   i = 7 = 1 = 8
+
+
+2. pelanggam = {Sejahtera, Hasil Bumi, Bersama, Rizki, Sarinah, Bening}
+   daerah    = {Debong, Bandung k, Randugu, Limba, Kemantr, Jatibogor}
+
+   root = Sejahtera
+   root.left = null
+   root.right = null
+
+   public Node (int item) {
+          this.key = item
+          this.key = null
+          this.right = null
+
+          node not = nul;
+          root = insert(noot , Sejahtera, Hasil Bumi, Bersama, Rizki, Sarinah, Bening);
+          insert root = Sejahtera, Hasil Bumi, Bersama, Rizki, Sarinah, Bening
+          insert root = Debong, Bandung k, Randugu, Limba, Kemantr, Jatibogor
+          inoder (root);
+
+   }
